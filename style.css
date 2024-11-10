@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+.main{
+    border: 2px solid violet;
+    padding: 20px;
+    border-radius: 10px;
+}
+.main h1{
+    text-align: center;
+    color: white;
+
+}
+button {
+    padding: 10px 20px;
+    font-size: 20px;
+    background-color: navajowhite;
+    cursor: pointer;
+}
